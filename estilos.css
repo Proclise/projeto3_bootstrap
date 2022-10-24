@@ -1,0 +1,26 @@
+header {
+    font-family: 'Alfa Slab One', cursive;
+    background-color: blue;
+
+}
+
+.section-title {
+    color: rgb(237, 218, 0);
+    font-weight: 900;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+    font-size: 30px;
+}
+
+.section-title:hover{
+    color: rgb(237, 218, 0);
+}
+
+ul {
+    list-style: none;
+}
+
+footer {
+    padding: 25px 0px;
+    background-color: blue;
+}
